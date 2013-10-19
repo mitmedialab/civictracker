@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.civictracker.main.Main { <init>(...); }
+
